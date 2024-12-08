@@ -53,4 +53,3 @@ Follow these steps to set up and run the project locally:
    ```bash
    git clone https://github.com/isidrocolocho/react-landing-buba-luba.git
    cd react-landing-buba-luba
-
