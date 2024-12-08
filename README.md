@@ -51,5 +51,6 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone https://github.com/isidrocolocho/react-landing-buba-luba.git
+   cd react-landing-buba-luba
+
