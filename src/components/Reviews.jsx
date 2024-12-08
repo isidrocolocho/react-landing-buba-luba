@@ -38,7 +38,7 @@ const Reviews = () => {
   return (
     <section id="reviews" className="flex flex-col items-center justify-center pt-10 px-6 pb-12 w-full font-raleway">
       <div className="w-full flex items-center justify-center mb-10">
-        <h1 className="text-3xl text-black dark:text-white font-medium space-x-14">
+        <h1 className="text-xl sm:text-3xl text-black dark:text-white font-medium space-x-14">
           <span>Flavors</span>
           <span>Places</span>
           <span>Prices</span>
